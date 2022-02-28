@@ -82,9 +82,15 @@ def get_readable_time(seconds: int) -> str:
 yurikorobot_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
 
 PM_START_TEXT = """
-*hello i am kindevils bot ⚡ {}!*
-*add me in your group if you want*.
-
+*👋 Hello {} !*
+✗ *𝐈 𝐀𝐌 𝐀𝐍 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓 𝐁𝐎𝐓*
+✗ *𝐀𝐌 𝐕𝐄𝐑𝐘 𝐅𝐀𝐒𝐓 𝐀𝐍𝐃 𝐌𝐎𝐑𝐄 𝐄𝐅𝐅𝐈𝐂𝐈𝐄𝐍𝐓 𝐈 𝐏𝐑𝐎𝐕𝐈𝐃𝐄 𝐀𝐖𝐄𝐒𝐎𝐌𝐄 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒!
+*
+────────────────────────
+× *Uᴘᴛɪᴍᴇ:* `{}`
+× `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
+────────────────────────
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: 𝐊𝐢𝐧𝐝 𝐄𝐯𝐢𝐥𝐬!*
 """
 
 buttons = [
