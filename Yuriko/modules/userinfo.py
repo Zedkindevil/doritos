@@ -353,9 +353,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/YurikoLogger/5"),
+                                "Health", url="https://t.me/kindevils/5"),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/YurikoLogger/6")
+                                "Disaster", url="https://t.me/kindevils/6")
                         ],
                     ]
                 ),
@@ -371,9 +371,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "Health", url="https://t.me/YurikoLogger/5"),
+                                "Health", url="https://t.me/kindevils/5"),
                             InlineKeyboardButton(
-                                "Disaster", url="https://t.me/YurikoLogger/6")
+                                "Disaster", url="https://t.me/kindevils/6")
                         ],
                     ]
                 ),
@@ -585,9 +585,9 @@ Examples:
 
 *What is that health thingy?*
 
- `Come and see` [HP System explained](https://t.me/YurikoLogger/5)
+ `Come and see` [HP System explained](https://t.me/)
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: 𝐊𝐢𝐧𝐝 𝐄𝐯𝐢𝐥𝐬!*
 """
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio, run_async=True)
