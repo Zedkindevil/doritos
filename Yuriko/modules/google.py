@@ -297,7 +297,7 @@ __help__ = """
 
 ✗ Yuriko - `<query> Yuriko answers the query`
 
-💡 Ex: `Yuriko where is Japan?`
+💡 Ex: `kindevils manager where is Japan?`
 
-*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Tᴇᴀᴍ DᴇCᴏᴅᴇ!*
+*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: 𝐊𝐢𝐧𝐝 𝐄𝐯𝐢𝐥𝐬!*
 """
