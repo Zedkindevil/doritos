@@ -1,7 +1,7 @@
 __mod_name__ = "Tᴏᴏʟꜱ"
 
 __help__ = """
-*Yuriko Info bot*
+*kindevils manager Info bot*
 
 ✗  /sg <reply> - `To check history name`
 
