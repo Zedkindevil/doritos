@@ -11,9 +11,9 @@ from io import BytesIO
 from requests import get
 from telethon.tl.types import InputMessagesFilterPhotos
 
-from TGNRobot import OWNER_ID, SUPPORT_CHAT
-from TGNRobot.events import register
-from TGNRobot import telethn
+from Yuriko import OWNER_ID, SUPPORT_CHAT
+from Yuriko.events import register
+from Yuriko import telethn
 from PIL import Image, ImageDraw, ImageFont
 
 
