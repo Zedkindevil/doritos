@@ -15,7 +15,7 @@ from Yuriko import StartTime, dispatcher
 from telethon.tl.types import ChannelParticipantsAdmins
 
 edit_time = 5
-""" =======================YURIKO====================== """
+""" =======================KINDEVILS====================== """
 file1 = "https://telegra.ph/file/1ad7188c8390b5c36b9a8.jpg"
 file2 = "https://telegra.ph/file/73fc670e1dc78d1857b67.jpg"
 file3 = "https://telegra.ph/file/4b29739e7fd46b2111e55.jpg"
@@ -54,7 +54,7 @@ async def hmm(yes):
     current_time = datetime.utcnow()
     uptime_sec = (current_time - START_TIME).total_seconds()
     uptime = await _human_time_duration(int(uptime_sec))
-    pm_caption = "** ♡ I,m Yuriko **\n\n"
+    pm_caption = "** ♡ I,m kindevils bot **\n\n"
     pm_caption += f"**♡ My Uptime :** `{uptime}`\n\n"
     pm_caption += f"**♡ Telethon Version :** `{version.__version__}`\n\n"
     pm_caption += "**♡ My Team :** [Kindevils](https://t.me/kindevils)\n"
