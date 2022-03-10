@@ -482,7 +482,7 @@ def yurikorobot_about_callback(update, context):
             f"\n\n✗ `2.) then promote me as admin and give all permissions except anonymous admin.`"
             f"\n\n✗ `3.) add` @kindevilsplugin `to your group:`"
             f"\n\n✗ `4.) turn on the video chat first before start to play music.`"
-            f"\n\n✗ *Lets Enjoy The Yuriko Music And Join Support Group @kindevils*"
+            f"\n\n✗ *Lets Enjoy The kindevils Music And Join Support Group @kindevils*"
             f"\n\n*✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: 𝐊𝐢𝐧𝐝 𝐄𝐯𝐢𝐥𝐬!*",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
