@@ -115,21 +115,21 @@ async def alive_function(answers):
     bot_state = "Dead" if not await app.get_me() else "Alive"
     ubot_state = "Dead" if not await ubot2.get_me() else "Alive"
     buttons.add(
-        InlineKeyboardButton("Main bot", url="https://t.me/YurikoRobot"),
+        InlineKeyboardButton("Main bot", url="https://t.me/kindevilsmanagerbot"),
         InlineKeyboardButton(
             "Go Inline!", switch_inline_query_current_chat=""
         ),
     )
 
     msg = f"""
-**[Yuriko Robot ❤️](https://t.me/decodesupport):**
+**[KINDEVILS ROBOT❤️](https://t.me/kindevilsorg):**
 **MainBot:** `{bot_state}`
 **UserBot:** `{ubot_state}`
 **Python:** `{pyver.split()[0]}`
 **Pyrogram:** `{pyrover}`
 **MongoDB:** `{mongover}`
 **Platform:** `{sys.platform}`
-**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [UBOT](t.me/TeamDeeCode)
+**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [UBOT](t.me/kindevils)
 """
     answers.append(
         InlineQueryResultArticle(
