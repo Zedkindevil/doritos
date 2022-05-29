@@ -509,7 +509,7 @@ def yurikorobot_about_callback(update, context):
         )    
     elif query.data == "yurikorobot_support":
         query.message.edit_text(
-            text="* YURIKO Support Chats*"
+            text="* KEM Support Chats*"
             
             "\n\n✗ `Join Support Group/Channel`",
             parse_mode=ParseMode.MARKDOWN,
@@ -862,7 +862,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "`I Aᴍ Aʟɪᴠᴇ` 🔥")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝐁𝐄 𝐀𝐂𝐓𝐈𝐕𝐄 𝐆𝐔𝐘𝐒 𝐋𝐈𝐊𝐄 𝐈 𝐀𝐌 🔥")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
